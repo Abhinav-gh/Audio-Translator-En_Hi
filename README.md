@@ -122,7 +122,13 @@ Now we are good to go. Run the code:
 ```bash
 python3 english_to_hindi_v2.py
 ```
+After the program exits the ./sessionFiles/ is expected to be filled with numerous .wav audio files. 
 
+#### Final Audio Processing
+This is the final step before we get the output file. So make sure you are in the project directory. We are going to run a python script for doing this
+```bash
+python3 final_audio_processing.py
+```
 You should see a file named: **end_result_slow_output.wav** under the project directory. Please play this file at 1.25x speed for correct results.
 
 Several other .wav audio files will be generated under ./sessionFiles. You can delete them. Run **clear_sessionFiles.py** as mentioned above
