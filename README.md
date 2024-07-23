@@ -12,7 +12,13 @@ It involves several key steps:
 - Generating Hindi speech from the translated text
 - Maintaining the original pauses in the final Hindi audio output.
 
+## Demo
+Please find the 2 demo files for this project:
+- Input file given (English audio): https://github.com/Abhinav-gh/Audio-Translator-En_Hi/blob/main/shotcutLesson.wav
+- Output file generated (Hindi audio): https://github.com/Abhinav-gh/Audio-Translator-En_Hi/blob/main/end_result_slow_output.wav
+- The program also generates text since we are using speech to text models as well. So, we have **text** for both English and Hindi audio.
 
+P.S. The output file generated is to be played at 1.25x for best results.
 ## Run on Collab
 You can run this project on the **google collab**. However I would suggest to run it locally. 
 
@@ -120,6 +126,7 @@ python3 english_to_hindi_v2.py
 You should see a file named: **end_result_slow_output.wav** under the project directory. Please play this file at 1.25x speed for correct results.
 
 Several other .wav audio files will be generated under ./sessionFiles. You can delete them. Run **clear_sessionFiles.py** as mentioned above
+
 
 ## Authors
 
