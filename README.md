@@ -16,7 +16,7 @@ It involves several key steps:
 ## Run on Collab
 You can run this project on the **google collab**. However I would suggest to run it locally. 
 
-Here is the link to my collab notebook: https://colab.research.google.com/drive/1rNpAC9WeqaSOIHpL7TT1wh3ryJ4kutIq
+Here is the link to my collab notebook: [click here](https://colab.research.google.com/drive/1rNpAC9WeqaSOIHpL7TT1wh3ryJ4kutIq?usp=sharing)
 ## Step-by-Step Installation to Run Locally
 
 ### Prerequisites
